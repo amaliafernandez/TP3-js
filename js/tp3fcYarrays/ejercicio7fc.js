@@ -7,5 +7,5 @@ function tabla (numero) {
 
 }
 
-let numero = parseInt(prompt("ingrese un numero del 1 al 9"))
+let numero = parseInt(prompt("ingrese un numero"))
 tabla(numero)
